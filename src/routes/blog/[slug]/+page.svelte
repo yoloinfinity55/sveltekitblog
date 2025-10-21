@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	export let data;
 </script>
 
@@ -22,7 +23,7 @@
 	</div>
 	
 	<footer>
-		<a href="/">← Back to home</a>
+		<a href="{base}/">← Back to home</a>
 	</footer>
 </article>
 
