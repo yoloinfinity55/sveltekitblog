@@ -18,11 +18,10 @@ This is my first post written in Markdown. How cool is that?
 ## Code Example
 
 Here's some JavaScript:
-
-\`\`\`javascript
+```javascript
 function greet(name) {
   console.log(`Hello, ${name}!`);
 }
-\`\`\`
+```
 
 Stay tuned for more posts!
