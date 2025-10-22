@@ -2,6 +2,7 @@
 title: "Getting Started with Markdown"
 date: "2024-10-19"
 excerpt: "A quick guide to writing posts in markdown format."
+tags: ["markdown", "tutorial", "getting-started"]
 ---
 
 # Getting Started with Markdown

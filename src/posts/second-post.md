@@ -2,6 +2,7 @@
 title: "Building with SvelteKit"
 date: "2024-10-20"
 excerpt: "Learn how I built this blog using SvelteKit and markdown."
+tags: ["svelte", "tutorial", "sveltekit"]
 ---
 
 # Building with SvelteKit

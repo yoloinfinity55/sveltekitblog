@@ -2,6 +2,7 @@
 title: "My First Blog Post"
 date: "2024-10-21"
 excerpt: "Welcome to my new SvelteKit blog! This is my first post."
+tags: ["svelte", "blog", "web-dev"]
 ---
 
 # Welcome to My Blog
